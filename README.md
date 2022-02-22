@@ -4,4 +4,4 @@
 </kbd>
 
 # Discord
-[![discord](https://discordapp.com/api/guilds/331613189462556672/widget.png)](https://discord.gg/WBaJAGX4m2)
+https://discord.gg/WBaJAGX4m2
