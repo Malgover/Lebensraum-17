@@ -37,7 +37,7 @@
 #### Actual definitions
 
 PREINFO nil
-TITLE <font color = red>Unofficial Lebensraum | Ashes on Sunday</font>
+TITLE <font color = red>Lebensraum 17 | Ashes on Sunday</font>
 OOCDESC Unofficial WW13 server, come have fun.
 ICDESC {Timeofday}, {Weather}, {Season}, Ukraine.<br>The round time is {ROUNDTIME}. Map: {Map}.
 RPLEVEL Medium Roleplay
