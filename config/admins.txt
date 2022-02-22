@@ -7,7 +7,6 @@
 
 # not_a_user - Admin
 Malgover - Host
-Szymon79 - Primary Admin 
-Basipek - Mentor
+Szymon79 - Head Admin 
+Basipek - Admin
 Sodium Hypochlorite - Head Admin
-Merrgear - Primary Admin
